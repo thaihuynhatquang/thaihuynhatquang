@@ -235,16 +235,21 @@
   </a>
 </p>
 
-<img
-  align="left"
-  alt="nhatquang's github stats"
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihuynhatquang&langs_count=10&layout=compact"
-/>
-
-<img
-  align="right"
-  alt="nhatquang's github stats"
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=thaihuynhatquang&show_icons=true&count_private=true"
-/>
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        alt="nhatquang's github stats"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaihuynhatquang&langs_count=10&layout=compact"
+      />
+    </td>
+    <td>
+      <img
+        align="right"
+        alt="nhatquang's github stats"
+        src="https://github-readme-stats.vercel.app/api?username=thaihuynhatquang&show_icons=true&count_private=true"
+      />
+    </td>
+  </tr>
+</table>
